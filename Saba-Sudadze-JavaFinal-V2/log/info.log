@@ -1,0 +1,4 @@
+2021-01-28 08:49:10 INFO  Payment:20 - კომუნალური გადახდილია: Electricity(customerNumber='lbaad123', amount='10.5')
+2021-01-28 08:49:10 INFO  Payment:22 - კომუნალური გადახდილია: Water(customerNumber='123', amount='2.3')
+2021-01-28 08:51:45 INFO  Payment:22 - კომუნალური გადახდილია: Electricity(customerNumber='lbaad123', amount='10.5')
+2021-01-28 08:51:45 INFO  Payment:24 - კომუნალური გადახდილია: Water(customerNumber='123', amount='2.3')
